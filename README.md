@@ -34,4 +34,7 @@
 	<a href="https://linkedin.com/in/iamtariq"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
 
+<br/>
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 <hr/>

@@ -36,8 +36,9 @@
 
 <br/>
 ### ✍️Random Dev Quote
+
 <div>
- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+ https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko
 
 ---
 
@@ -47,7 +48,7 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=CodeWhiteWeb&label=Visitors+Count&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=hereTariq&label=Visitors+Count&color=brightgreen)
 
 </div>
 <hr/>

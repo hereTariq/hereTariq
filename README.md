@@ -40,15 +40,5 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
----
-
-![](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
-![](http://ForTheBadge.com/images/badges/built-by-developers.svg)
-![](https://forthebadge.com/images/badges/uses-brains.svg)
-
----
-
-![](https://komarev.com/ghpvc/?username=hereTariq&label=Visitors+Count&color=brightgreen)
-
 </div>
 <hr/>
